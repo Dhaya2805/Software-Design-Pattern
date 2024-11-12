@@ -1,0 +1,10 @@
+.headder-admin-h1{
+    font-size: 30px;
+    max-width: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: rgb(10, 9, 51);
+}
